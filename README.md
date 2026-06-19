@@ -14,11 +14,11 @@ I am a passionate developer who loves building impactful projects and learning n
 
 ### 🛠️ Tech Stack & Tools
 * **Languages:** python,c++,SQL
-* **Frameworks/Libraries:** *Pandas, NumPy, Matplotlib, Seaborn
+* **Frameworks/Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 * **Tools & Platforms:** Git, GitHub, VS Code,pycharm
 
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [Hafsa Rehman]www.linkedin.com/in/hafsa-rehman-3b1856394
+* *LinkedIn:* [Hafsa Rehman](https://www.linkedin.com/in/hafsa-rehman-3b1856394)
 * **EMAIL**hafsarehmankhan12@gmail.com
