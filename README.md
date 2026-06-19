@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**hafsarehmankhan12/hafsarehmankhan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I'm Hafsa
 
-Here are some ideas to get you started:
+I am a passionate developer who loves building impactful projects and learning new technologies. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+---
+
+### 🔭 Current Focus
+- 🚀 I’m currently working on python and excel ...
+- 🌱 I’m currently learning data analytics ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** python,c++,SQL
+* **Frameworks/Libraries:** * **Tools & Platforms:** Git, GitHub, VS Code
+
+---
+
+### 📫 Let's Connect!
+* **LinkedIn:** [Hafsa Rehman]
