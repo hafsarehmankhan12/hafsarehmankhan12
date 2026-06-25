@@ -31,4 +31,4 @@
 
 ### 📫 Let's Connect!
 * *LinkedIn:* [Hafsa Rehman](https://www.linkedin.com/in/hafsa-rehman-3b1856394)
-* **Email**hafsarehmankhan12@gmail.com
+* **Email**[hafsarehmankhan12@gmail.com] , [hafsarehmankhan12@hotmail.com]
