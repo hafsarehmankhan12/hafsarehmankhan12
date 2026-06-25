@@ -1,24 +1,24 @@
 
 ## Hi there 👋 I'm Hafsa
 
-I am a passionate developer who loves building impactful projects and learning new technologies. 
+"BS Data Science student transforming messy, raw data into actionable, predictive insights. Deeply curious about finding hidden patterns in data and leveraging machine learning to solve real-world problems. When I'm not coding in Python or building models, I'm usually cleaning complex datasets for fun."
 
 ---
 
 ### 🔭 Current Focus
-- 🚀 I’m currently working on python and excel ...
-- 🌱 I’m currently learning data analytics ...
+- 🚀 I’m currently working on data anaytics.
+- 🌱 I’m currently learning Python,Excel,SQL and data analysis.
 - 💬  Ask me about Data Cleaning, Python libraries, or exploratory data analysis (EDA).
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** python,c++,SQL
+* **Languages:** Python,SQL,C++
 * **Frameworks/Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-* **Tools & Platforms:** Git, GitHub, VS Code,pycharm
+* **Tools & Platforms:** GitHub, VS Code,Pycharm
 
 ---
 
 ### 📫 Let's Connect!
 * *LinkedIn:* [Hafsa Rehman](https://www.linkedin.com/in/hafsa-rehman-3b1856394)
-* **EMAIL**hafsarehmankhan12@gmail.com
+* **Email**hafsarehmankhan12@gmail.com
