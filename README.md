@@ -6,16 +6,26 @@
 ---
 
 ### 🔭 Current Focus
-- 🚀 I’m currently working on data anaytics.
-- 🌱 I’m currently learning Python,Excel,SQL and data analysis.
+- 🚀 I’m currently working on data analytics.
+- 🌱 I’m currently learning Python ,Excel, SQL and data analysis.
 - 💬  Ask me about Data Cleaning, Python libraries, or exploratory data analysis (EDA).
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** Python,SQL,C++
-* **Frameworks/Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-* **Tools & Platforms:** GitHub, VS Code,Pycharm
+* **Languages:**
+  [PYTHON]
+  [SQL]
+  [C++]
+* **Frameworks/Libraries:**
+  [PANDAS]
+  [NUMPY]
+  [MATPLOTLIB]
+  
+* **Tools & Platforms:**
+  [Github]
+  [Vs Code]
+  [Pycharm]
 
 ---
 
