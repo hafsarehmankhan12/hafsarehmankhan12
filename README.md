@@ -6,7 +6,7 @@
 ---
 
 ### 🔭 Current Focus
-- 🚀 I’m currently working on data analytics.
+- 🚀 I’m currently working on data analytics and powerBI.
 - 🌱 I’m currently learning Python ,Excel, SQL and data analysis.
 - 💬  Ask me about Data Cleaning, Python libraries, or exploratory data analysis (EDA).
 
@@ -21,11 +21,14 @@
   [PANDAS]
   [NUMPY]
   [MATPLOTLIB]
+  [SEABORN]
+  [SCIKIT LEARN]
   
 * **Tools & Platforms:**
   [Github]
   [Vs Code]
   [Pycharm]
+  [POWER BI]
 
 ---
 
