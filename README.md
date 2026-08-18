@@ -1,7 +1,7 @@
 
 ## Hi there 👋 I'm Hafsa
 
-"BS Data Science student transforming messy, raw data into actionable, predictive insights. Deeply curious about finding hidden patterns in data and leveraging machine learning to solve real-world problems. When I'm not coding in Python or building models, I'm usually cleaning complex datasets for fun."
+"BS Data Science student transforming messy, raw data into actionable, predictive insights. Deeply curious about finding hidden patterns in data and leveraging machine learning to solve real-world problems.I'm passionate about solving real-world problems using data-driven approaches and continuously improving my analytical skills."
 
 ---
 
