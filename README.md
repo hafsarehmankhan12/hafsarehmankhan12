@@ -17,10 +17,7 @@
   [PYTHON]
   [SQL]
   [C++]
-  ## 📈 GitHub Stats
 
-![Hafsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafsarehmankhan12&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsarehmankhan12&layout=compact&theme=tokyonight)
 * **Frameworks/Libraries:**
   [PANDAS]
   [NUMPY]
@@ -34,7 +31,7 @@
   [Pycharm]
   [POWER BI]
 
----
+--
 
 ### 📫 Let's Connect!
 * *LinkedIn:* [Hafsa Rehman](https://www.linkedin.com/in/hafsa-rehman-3b1856394)
