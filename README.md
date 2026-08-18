@@ -3,7 +3,8 @@
 
 "BS Data Science student transforming messy, raw data into actionable, predictive insights. Deeply curious about finding hidden patterns in data and leveraging machine learning to solve real-world problems.I'm passionate about solving real-world problems using data-driven approaches and continuously improving my analytical skills."
 
----
+---<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/e683d4bd-1e51-4e25-80b0-b599915e50d5" />
+
 
 ### 🔭 Current Focus
 - 🚀 I’m currently working on data analytics and powerBI.
