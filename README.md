@@ -30,7 +30,15 @@
   [Vs Code]
   [Pycharm]
   [POWER BI]
+## 📌 Featured Projects
 
+| Project | Description | Tech |
+|---------|-------------|------|
+| 📊 Netflix Dashboard | Interactive Power BI dashboard for Netflix content analysis | Power BI |
+| 🍎 Apple Sales Dashboard | Sales analytics dashboard with KPIs | Power BI |
+| 🎓 Student Performance Dashboard | Educational analytics dashboard | Power BI |
+| 🚗 Car Price Prediction | Random Forest Regression model | Python, Scikit-learn |
+| 🌸 Iris Flower Classification | Machine Learning classification model | Python, Scikit-learn |
 --
 
 ### 📫 Let's Connect!
